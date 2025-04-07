@@ -1,13 +1,13 @@
 LICENCIA DE USO RESTRINGIDO - KONAN TOOLKIT
 Versión 1.0, Junio 2025
 
-Copyright (c) 2025 - marccsr
+Copyright (c) 2025 - marccgr
 
 TÉRMINOS Y CONDICIONES DE USO
 
 1. DEFINICIONES
    - "Software" se refiere a Konan Toolkit y toda su documentación asociada.
-   - "Autor" se refiere a @marccsr
+   - "Autor" se refiere a @marccgr
    - "Fuerzas Policiales" se refiere a:
      * Guardia Civil
      * Policía Nacional
@@ -30,7 +30,6 @@ TÉRMINOS Y CONDICIONES DE USO
 
 4. PROPIEDAD INTELECTUAL
    - El Software es propiedad exclusiva del Autor
-   - Este Software fue desarrollado como parte de un Trabajo Fin de Grado en la Universidad de Alcalá de Henares
    - Todos los derechos no expresamente concedidos están reservados al Autor
 
 5. CONFIDENCIALIDAD
@@ -51,7 +50,7 @@ TÉRMINOS Y CONDICIONES DE USO
 
 8. CONTACTO
    Para solicitudes de autorización o consultas:
-   - Mensaje Directo ("NOTIFICACIÓN") por Github a: @marccsr
+   - Mensaje Directo ("NOTIFICACIÓN") por Github a: @marccgr
 
 9. LEY APLICABLE
    Esta licencia se rige por las leyes españolas y la legalidad vigente en el Estado español.
