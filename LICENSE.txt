@@ -8,16 +8,10 @@ TÉRMINOS Y CONDICIONES DE USO
 1. DEFINICIONES
    - "Software" se refiere a Konan Toolkit y toda su documentación asociada.
    - "Autor" se refiere a @marccgr
-   - "Fuerzas Policiales" se refiere a:
-     * Guardia Civil
-     * Policía Nacional
-     * Otras fuerzas y cuerpos de seguridad del Estado español y colaboradoras con EUROPOL e INTERPOL
-     * Unidades especializadas en delitos tecnológicos y financieros
 
 2. CONCESIÓN DE LICENCIA
    Este Software está protegido por derechos de autor y se concede licencia de uso ÚNICAMENTE a:
    a) El Autor del Software
-   b) Miembros activos de las Fuerzas Policiales definidas anteriormente
    c) Personal autorizado expresamente por escrito por el Autor
 
 3. RESTRICCIONES
@@ -25,8 +19,7 @@ TÉRMINOS Y CONDICIONES DE USO
    a) El uso del Software por parte de cualquier persona o entidad no especificada en la sección 2
    b) La modificación, ingeniería inversa, descompilación o desensamblaje del Software
    c) La distribución, venta, sublicencia o transferencia del Software
-   d) El uso del Software para fines diferentes a la investigación policial y forense
-   e) La creación de trabajos derivados basados en el Software
+   d) La creación de trabajos derivados basados en el Software
 
 4. PROPIEDAD INTELECTUAL
    - El Software es propiedad exclusiva del Autor
@@ -50,7 +43,7 @@ TÉRMINOS Y CONDICIONES DE USO
 
 8. CONTACTO
    Para solicitudes de autorización o consultas:
-   - Mensaje Directo ("NOTIFICACIÓN") por Github a: @marccgr
+   - Mensaje Directo ("NOTIFICACIÓN") vía Github a: @marccgr
 
 9. LEY APLICABLE
    Esta licencia se rige por las leyes españolas y la legalidad vigente en el Estado español.
