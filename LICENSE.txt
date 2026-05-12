@@ -1,5 +1,5 @@
 LICENCIA DE USO RESTRINGIDO - KONAN TOOLKIT
-Versión 1.0, Junio 2025
+Versión 1.2.0-beta, Junio 2025
 
 Copyright (c) 2025 - marccgr
 
